@@ -7,3 +7,6 @@ $(".dploc").on("click", function(){
   alert($(this).attr("data-loc"));
 
 });
+
+Demo:
+[link]https://sergiocutone.github.io/digitalpost-map/[/link]
