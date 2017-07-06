@@ -8,4 +8,4 @@ $(".dploc").on("click", function(){
 
 });
 
-Demo: https://sergiocutone.github.io/digitalpost-map/
+Demo: https://sergiocutone.github.io/digitalpost-map
