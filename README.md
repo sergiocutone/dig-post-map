@@ -9,4 +9,4 @@ $(".dploc").on("click", function(){
 });
 
 Demo:
-[link]https://sergiocutone.github.io/digitalpost-map/[/link]
+[https://sergiocutone.github.io/digitalpost-map/]
